@@ -1,4 +1,8 @@
 _repo: Aboriginal-American-Authors_9188
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Brinton, Daniel G. (Daniel Garrison)
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2993
     wikipedia: http://en.wikipedia.org/wiki/Daniel_Garrison_Brinton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9188#Aboriginal-American-Authors
 gutenberg_bookshelf: Native America
 gutenberg_issued: '2005-10-01'
 gutenberg_type: Text
